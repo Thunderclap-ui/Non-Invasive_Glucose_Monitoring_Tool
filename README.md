@@ -11,7 +11,7 @@ Features used:<br>
   **`Skin Temperature`**<br>
   **`Heart Rate`**<br>
   **`Blood Pressure`**<br>
-  **`Electrodermal Activity`**<br>
+  **`Galvanic Skin Response`**<br>
 
 ## Overview:
 The project objectives that are being resolved are:
@@ -61,6 +61,47 @@ To get started with the project, you will need to download and install DB browse
 Make sure you have the following tool to run and view the project working: **`Visual Code`** and the frameworks listed in the **`Tools and Framework`** block. Once you get the local host url, input the coresponding input values of a person to get the model training for the predicted glucose value.
 
 ## Snapshots:
-<p align="left">
-  <img src="https://github.com/Thunderclap-ui/Non-Invasive_Glucose_Monitoring_Tool/assets/68047912/c0e3c9aa-8566-4fb3-a517-2cf246e3f512"/>
+<p>
+  <img align="left" width="450" heigth="100" src="https://github.com/Thunderclap-ui/Non-Invasive_Glucose_Monitoring_Tool/assets/68047912/c0e3c9aa-8566-4fb3-a517-2cf246e3f512"/>
+    <strong> IoT Module for Galvanic Skin Response </strong> <br> <br>
+    <strong> Galvanic Skin Response </strong> is a physiological measure that has been used in psychological research for over a century.<br>
+    GSR measures the electrical conductance of the skin, which changes in response to emotional arousal and other psychological processes.
 </p>
+<br> <br> <br> <br>
+<p>
+  <img align="right" alt="Django Interface" title="Home Page" width="480" heigth="100" src="https://github.com/Thunderclap-ui/Non-Invasive_Glucose_Monitoring_Tool/assets/68047912/3a92c346-a8b1-46cf-bd99-e3babb47e0af"/>
+    <strong> Welcome Page of the project </strong> <br> <br>
+    <strong> Diabetes </strong> is a chronic disease that occurs either when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces. <br>
+    <strong> Insulin </strong> is a hormone that regulates blood glucose.
+</p>
+<br> <br> <br> <br>
+<p>
+  <img align="left" alt="Predicted Interface" title="Input Page" width="450" heigth="100" src="https://github.com/Thunderclap-ui/Non-Invasive_Glucose_Monitoring_Tool/assets/68047912/19f9af9a-7e84-4d59-85ed-91c7793dbed2"/>
+    <strong> Predicton of Glucose Result </strong> <br> <br>
+    The <strong> non-invasive glucose monitoring tool </strong> represents a significant advancement in the field of MedTech, IoT, and machine learning and has the potential to make a real difference in the lives of millions of people living with diabetes. <br>
+</p>
+<br> <br> <br>
+
+## Contributing:
+We welcome contributions from the community to help improve the project and add new features. If you have any ideas or suggestions, please feel free to open an issue or submit a pull request. 
+<table border=1px solid black>
+<tr>
+    <th>Jayanth R G &ensp;
+<a href="https://www.linkedin.com/in/jayanthrg/">
+    <img align="center" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+     </th>
+     <th>Gaayana R &ensp;
+<a href="https://www.linkedin.com/in/gaayana-revanna/ ">
+    <img align="center" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+     </th>
+     <th>Vaishnavi C &ensp;
+<a href="https://www.linkedin.com/in/vaishnavi-c-46663a1a6/">
+    <img align="center" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+     </th>
+     <th>Vishwas N &ensp;
+<a href="https://www.linkedin.com/in/vishwas-nigam-7097a0108/">
+    <img align="center" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+     </th>
+</tr>
+<p align="center"> <i> <b> “Good health is not something we can buy. However, it can be an extremely valuable savings account.” </i> </b> </p>
+    <p align="right"> – Anne Wilson Schaef </p>
