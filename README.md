@@ -57,7 +57,7 @@ The system architecture has 3 phases where it involves Data Processing, Data Tra
    </p>
 
 ## Getting Started:
-To get started with the project, you will need to download and install DB browser for database related work, install the required modules & libs specified in the **`Library_Required`** readme file.
+To get started with the project, you will need to download and install DB browser for database related work, install the required modules & libs specified in the **`Libraries_Required`** readme file.
 Make sure you have the following tool to run and view the project working: **`Visual Code`** and the frameworks listed in the **`Tools and Framework`** block. Once you get the local host url, input the coresponding input values of a person to get the model training for the predicted glucose value.
 
 ## Snapshots:
