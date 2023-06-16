@@ -62,21 +62,21 @@ Make sure you have the following tool to run and view the project working: **`Vi
 
 ## Snapshots:
 <p>
-  <img align="left" width="450" heigth="100" src="https://github.com/Thunderclap-ui/Non-Invasive_Glucose_Monitoring_Tool/assets/68047912/c0e3c9aa-8566-4fb3-a517-2cf246e3f512"/>
+  <img align="left" width="450" heigth="100" src="https://github.com/Thunderclap-ui/Non-Invasive_Glucose_Monitoring_Tool/assets/68047912/2def0170-4e0f-432e-8115-448b4fcc789b"/>
     <strong> IoT Module for Galvanic Skin Response </strong> <br> <br>
     <strong> Galvanic Skin Response </strong> is a physiological measure that has been used in psychological research for over a century.<br>
     GSR measures the electrical conductance of the skin, which changes in response to emotional arousal and other psychological processes.
 </p>
 <br> <br> <br> <br>
 <p>
-  <img align="right" alt="Django Interface" title="Home Page" width="480" heigth="100" src="https://github.com/Thunderclap-ui/Non-Invasive_Glucose_Monitoring_Tool/assets/68047912/3a92c346-a8b1-46cf-bd99-e3babb47e0af"/>
+  <img align="right" alt="Django Interface" title="Home Page" width="480" heigth="100" src="https://github.com/Thunderclap-ui/Non-Invasive_Glucose_Monitoring_Tool/assets/68047912/3473725e-14a3-4a8b-8831-b395c90088b8"/>
     <strong> Welcome Page of the project </strong> <br> <br>
     <strong> Diabetes </strong> is a chronic disease that occurs either when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces. <br>
     <strong> Insulin </strong> is a hormone that regulates blood glucose.
 </p>
 <br> <br> <br> <br>
 <p>
-  <img align="left" alt="Predicted Interface" title="Input Page" width="450" heigth="100" src="https://github.com/Thunderclap-ui/Non-Invasive_Glucose_Monitoring_Tool/assets/68047912/19f9af9a-7e84-4d59-85ed-91c7793dbed2"/>
+  <img align="left" alt="Predicted Interface" title="Input Page" width="450" heigth="100" src="https://github.com/Thunderclap-ui/Non-Invasive_Glucose_Monitoring_Tool/assets/68047912/eac2e3e2-11e7-411b-a8eb-c655e05cd71e"/>
     <strong> Predicton of Glucose Result </strong> <br> <br>
     The <strong> non-invasive glucose monitoring tool </strong> represents a significant advancement in the field of MedTech, IoT, and machine learning and has the potential to make a real difference in the lives of millions of people living with diabetes. <br>
 </p>
