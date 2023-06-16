@@ -1,6 +1,6 @@
 # Non Invasive Glucose Monitoring Tool
 <p>
-    <img align="left" alt="Health_Care" title="Health Care" width="750" height="370" src="https://www.bioworld.com/ext/resources/Stock-images/Therapeutic-topics/Diabetes/diabetes-management.png?1593552366">
+    <img align="left" alt="Health_Care" title="Health Care" width="1050" height="370" src="https://www.bioworld.com/ext/resources/Stock-images/Therapeutic-topics/Diabetes/diabetes-management.png?1593552366">
 </p>
 
 The project aims to combine non-invasive <b> biometric measurements </b> streamed through IoT sensors with machine learning algorithms to accurately predict <b> blood glucose levels (BGLs)</b>.<br><br>
