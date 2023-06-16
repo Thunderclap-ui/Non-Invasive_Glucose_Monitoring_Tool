@@ -1,0 +1,6 @@
+(pip install) The following are the modules and libs required for development of the project:
+- pandas: `pip install pandas`
+- seaborn: `pip install seaborn`
+- matplotlib: `pip install matplotlib`
+- numpy: `pip install numpy`
+- scikit-learn: `pip install scikit-learn`
