@@ -98,7 +98,7 @@ We welcome contributions from the community to help improve the project and add 
 <a href="https://www.linkedin.com/in/vaishnavi-c-46663a1a6/">
     <img align="center" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
      </th>
-     <th>Vishwas N &ensp;
+     <th>Vishwas Nigam &ensp;
 <a href="https://www.linkedin.com/in/vishwas-nigam-7097a0108/">
     <img align="center" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
      </th>
