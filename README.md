@@ -84,6 +84,9 @@ Make sure you have the following tool to run and view the project working: **`Vi
 
 ## Contributing:
 We welcome contributions from the community to help improve the project and add new features. If you have any ideas or suggestions, please feel free to open an issue or submit a pull request. 
+<p align="center">
+         <img alt="Project" title="Development" src="https://custom-icon-badges.demolab.com/badge/-Project_Still_Under_Development-orange?style=for-the-badge&logo=package&logoColor=white"/> </a>
+</p>
 <table border=1px solid black>
 <tr>
     <th>Jayanth R G &ensp;
