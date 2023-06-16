@@ -1,0 +1,102 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Prediction Page</title>
+        <style>
+        body { 
+            background-image: url("{% static 'DiabetesPrediction/images/img1.jpg' %}"); 
+            background-repeat: no-repeat; 
+            background-attachment: fixed; 
+            background-size: cover; 
+            }
+        .main{ 
+            position: fixed; 
+            top: 140px; 
+            left: 410px; 
+            width: 550px; 
+            background-color:#ffffff; 
+            border-radius: 10px; 
+            align-items: center; 
+            padding: 5%; 
+            } 
+        h1  { 
+            color: #0086b3; 
+            font-size: 30px; 
+            font-weight: bold; 
+            } 
+        input[type=submit]{
+             background-color: #4dc3ff;
+             border: 2px; color: white; 
+             padding: 8px 16px; 
+             cursor: pointer; 
+             margin-top: 15px; 
+            }
+        </style>
+    </head>
+    <body>
+     <div align = 'center' class = "main">
+        <h1>Please enter the following information:</h1>
+        <form action = "result">
+            <table>
+                <tr>
+                    <td align = "right">Age:</td>
+                    <td align = "left"><input type = "number"  name = "n1" min="18" max="100"></td>
+                </tr>
+                <tr>
+                    <td align = "right">Ambinent Temparature:</td>
+                    <td align = "left"><input type = "number"  name = "n2"></td>
+                </tr>
+                <tr>
+                    <td align = "right">Ambinent Humidity:</td>
+                    <td align = "left"><input type = "number" name = "n3"></td>
+                </tr>
+                <tr>
+                    <td align = "right">Galvanic skin response</td>
+                    <td align = "left"><input type = "number" name = "n4"></td>
+                </tr>
+                <tr>
+                    <td align = "right">Heart rate:</td>
+                    <td align = "left"><input type = "number" name = "n5"></td>
+                </tr>
+                <tr>
+                    <td align = "right">Mean Blood Pressure:</td>
+                    <td align = "left"><input type = "number" name = "n6"></td>
+                </tr>
+                <tr>
+                    <td align = "right">Skin Temparature:</td>
+                    <td align = "left"><input type = "number" name = "n7"></td>
+                </tr>
+                <tr>
+                    <td align = "right">Oxygen Saturation:</td>
+                    <td align = "left"><input type = "number" name = "n8"></td>
+                </tr>
+            </table>
+            <button onclick="showResult()">Submit</button>
+        </form>
+        <script>
+            function showResult()
+             {
+                // Get the prediction result
+                var predictionResult = {{result2}} ;
+        
+                // Display the result in a message box
+                
+                if (predictionResult > 180) 
+                {
+                alert("Your BloodGlucose Level is " + predictionResult + "Your Sugar Level is High.Please Contact a Doctor.");
+                }
+                if(predictionResult < 60)
+                {
+                    alert("Your BloodGlucose Level is " + predictionResult + "Your Sugar Level is Low.Please Contact a Doctor.");
+                }
+                else
+                {
+                    alert("Your BloodGlucose Level is " + predictionResult);
+                }                
+            }
+        </script>
+     </div>
+    </body>
+    </html>    
