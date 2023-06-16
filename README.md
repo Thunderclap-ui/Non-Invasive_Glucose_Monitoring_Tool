@@ -80,7 +80,7 @@ Make sure you have the following tool to run and view the project working: **`Vi
     <strong> Predicton of Glucose Result </strong> <br> <br>
     The <strong> non-invasive glucose monitoring tool </strong> represents a significant advancement in the field of MedTech, IoT, and machine learning and has the potential to make a real difference in the lives of millions of people living with diabetes. <br>
 </p>
-<br> <br> <br>
+<br> <br>
 
 ## Contributing:
 We welcome contributions from the community to help improve the project and add new features. If you have any ideas or suggestions, please feel free to open an issue or submit a pull request. 
